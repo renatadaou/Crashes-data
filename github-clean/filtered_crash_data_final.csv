@@ -1,0 +1,136 @@
+Town Name,Latitude,Longitude,Date Of Crash,Number Of Motor Vehicles,Light Condition Text Format
+Bristol,41.65608397,-72.91421429,1/5/24,2,Daylight
+Milford,41.22891,-73.031433,1/2/24,1,Daylight
+Stonington,41.381282,-71.898517,1/11/24,3,Daylight
+Shelton,41.319335,-73.095853,1/6/24,3,Dark-Lighted
+Newtown,41.389921,-73.209324,1/20/24,2,Daylight
+New Haven,41.314258,-72.874588,1/27/24,2,Dark-Lighted
+New Haven,41.2909,-72.94147,1/28/24,1,Dark-Lighted
+Windsor,41.865446,-72.656005,1/28/24,2,Daylight
+Norwalk,41.103945,-73.439105,2/4/24,1,Daylight
+Cheshire,41.521431,-72.897014,2/12/24,2,Daylight
+Bridgeport,41.211607,-73.191499,2/6/24,1,Dawn
+Wethersfield,41.713383,-72.658932,1/14/24,2,Daylight
+Shelton,41.333886,-73.147839,2/9/24,1,Daylight
+Manchester,41.782667,-72.568144,2/10/24,3,Dark-Lighted
+Fairfield,41.145461,-73.261096,1/25/24,3,Dark-Lighted
+Avon,41.793314,-72.816146,2/20/24,3,Dark-Lighted
+New Haven,41.28358,-72.935887,1/15/24,2,Dark-Lighted
+Bridgeport,41.19357214,-73.16335438,2/27/24,2,Daylight
+Bristol,41.665161,-72.921242,2/1/24,1,Dark-Lighted
+Newington,41.678761,-72.712926,2/29/24,1,Dark-Lighted
+Wolcott,41.62031906,-72.9709838,1/21/24,1,Dark-Lighted
+Avon,41.772663,-72.831142,3/3/24,1,Dark-Lighted
+Tolland,41.87794361,-72.38067393,3/3/24,1,Daylight
+Branford,41.284584,-72.844452,1/14/24,2,Daylight
+Cromwell,41.603103,-72.699964,2/29/24,1,Dark-Not Lighted
+Stamford,41.057092,-73.537779,3/4/24,1,Dark-Lighted
+Groton,41.372321,-71.989656,3/10/24,1,Dark-Not Lighted
+Wallingford,41.46760438,-72.83349218,3/24/24,2,Dark-Lighted
+Shelton,41.289988,-73.10767,3/23/24,1,Daylight
+Vernon,41.870053,-72.450134,2/27/24,4,Daylight
+Union,41.961294,-72.193464,2/29/24,2,Dark-Not Lighted
+Hartford,41.756134,-72.661323,1/9/24,2,Dark-Lighted
+Manchester,41.777241,-72.573182,2/8/24,2,Daylight
+Southington,41.611545,-72.89936899,2/15/24,2,Daylight
+Glastonbury,41.69620865,-72.54602468,2/26/24,1,Daylight
+Middletown,41.55603,-72.743471,3/3/24,1,Dark-Not Lighted
+New Britain,41.666082,-72.773285,3/4/24,1,Daylight
+Hartford,41.787231,-72.657997,3/19/24,1,Dark-Lighted
+Glastonbury,41.69418617,-72.54193724,3/20/24,1,Daylight
+Rocky Hill,41.634355,-72.685541,3/30/24,3,Dark-Lighted
+Danbury,41.386582,-73.478651,3/20/24,1,Dark-Lighted
+Wallingford,41.432172,-72.80623,4/1/24,1,Dark-Not Lighted
+North Haven,41.347922,-72.867813,4/1/24,1,Dark-Lighted
+Bridgeport,41.177289,-73.173615,3/10/24,2,Dark-Lighted
+New Hartford,41.830228,-73.016902,3/17/24,2,Daylight
+Hebron,41.655902,-72.347306,2/4/24,2,Dark-Lighted
+Norwich,41.54875,-72.085263,1/30/24,1,Daylight
+Stratford,41.178592,-73.15088,1/9/24,1,Dawn
+Darien,41.073194,-73.4479,2/8/24,1,Dark-Not Lighted
+Stamford,41.049803,-73.528376,1/29/24,1,Dark-Lighted
+Hartford,41.76972,-72.672596,4/13/24,1,Dark-Lighted
+Haddam,41.465448,-72.480039,4/16/24,2,Daylight
+Chaplin,41.756639,-72.147634,4/20/24,2,Daylight
+Willington,41.874667,-72.302278,4/27/24,1,Dark-Lighted
+New Haven,41.31977485,-72.95018225,4/28/24,1,Dark-Lighted
+West Haven,41.272555,-72.970813,2/25/24,3,Dark-Lighted
+New Haven,41.320114,-72.891573,4/10/24,2,Unknown
+Bolton,41.747815,-72.437928,5/1/24,2,Daylight
+Bozrah,41.54531147,-72.17502841,4/7/24,3,Unknown
+Wallingford,41.492027,-72.824688,5/6/24,1,Daylight
+Salem,41.463241,-72.25112,2/28/24,2,Daylight
+New London,41.368365,-72.11833,4/10/24,1,Daylight
+East Haven,41.2817723,-72.87464491,2/22/24,1,Daylight
+New Haven,41.323764,-72.881361,5/18/24,2,Dark-Lighted
+Wolcott,41.60701787,-72.98533982,4/26/24,2,Daylight
+Stratford,41.240691,-73.118601,5/9/24,2,Dark-Not Lighted
+Trumbull,41.223161,-73.176366,4/10/24,1,Dark-Lighted
+Ridgefield,41.303491,-73.460879,5/20/24,2,Daylight
+North Branford,41.326256,-72.819183,3/28/24,1,Dark-Lighted
+Trumbull,41.245852,-73.150534,3/4/24,2,Daylight
+Hartford,41.74558372,-72.66056144,5/14/24,1,Daylight
+Hartford,41.798493,-72.675756,2/7/24,2,Daylight
+New Milford,41.527017,-73.423488,1/4/24,1,Dark-Not Lighted
+Bloomfield,41.85242,-72.702463,6/1/24,1,Dark-Lighted
+Windsor,41.817728,-72.684411,6/1/24,3,Daylight
+Oxford,41.406069,-73.142189,6/5/24,2,Daylight
+Colchester,41.584254,-72.337352,3/12/24,1,Daylight
+Danbury,41.375406,-73.450139,6/10/24,1,Daylight
+East Hartford,41.769531,-72.611155,4/16/24,1,Dark-Not Lighted
+Windsor,41.866981,-72.662141,6/10/24,3,Dark-Lighted
+East Haven,41.285116,-72.886744,6/14/24,1,Dark-Lighted
+Canterbury,41.681275,-71.966651,2/11/24,1,Dark-Not Lighted
+Griswold,41.592583,-71.957088,6/9/24,2,Daylight
+New Britain,41.661256,-72.803339,5/23/24,2,Daylight
+Shelton,41.278131,-73.136584,6/23/24,1,Dark-Lighted
+Norwalk,41.123261,-73.426205,6/21/24,1,Daylight
+Cheshire,41.536546,-72.966085,1/20/24,2,Dark-Lighted
+Chester,41.39707,-72.498691,6/20/24,1,Dark-Not Lighted
+Bridgeport,41.17901,-73.163714,6/28/24,2,Daylight
+Windsor,41.832399,-72.665391,5/4/24,1,Dark-Lighted
+Orange,41.260454,-73.009147,6/25/24,2,Daylight
+Danbury,41.387844,-73.494636,7/3/24,2,Daylight
+Goshen,41.83640364,-73.21177284,5/14/24,2,Daylight
+Westbrook,41.27931,-72.460748,6/29/24,2,Dark-Lighted
+Middletown,41.531808,-72.652201,6/8/24,2,Daylight
+New Haven,41.303626,-72.931463,7/10/24,2,Dark-Lighted
+Bristol,41.668557,-72.913728,6/24/24,1,Dark-Lighted
+Hebron,41.685117,-72.439784,4/28/24,1,Daylight
+New Britain,41.663987,-72.782355,5/27/24,1,Dark-Lighted
+Woodstock,41.948413,-71.957642,7/12/24,1,Daylight
+Westbrook,41.290983,-72.428817,2/26/24,1,Dark-Not Lighted
+Vernon,41.8271,-72.483277,7/13/24,1,Dawn
+Franklin,41.576111,-72.131519,5/14/24,1,Daylight
+Southington,41.599921,-72.902406,5/30/24,3,Daylight
+Rocky Hill,41.673507,-72.659858,7/20/24,1,Dark-Lighted
+Newtown,41.41723,-73.289693,6/12/24,2,Daylight
+Glastonbury,41.73157,-72.535401,5/24/24,2,Daylight
+Waterbury,41.522368,-73.03216,3/12/24,1,Daylight
+Waterbury,41.55246494,-73.02598946,5/11/24,1,Dark-Not Lighted
+Waterbury,41.564127,-73.048381,3/2/24,1,Dark-Lighted
+Harwinton,41.778451,-73.095133,7/28/24,1,Daylight
+West Haven,41.29695,-72.954453,6/16/24,1,Dark-Lighted
+Waterbury,41.553576,-73.062373,1/10/24,1,Dark-Lighted
+Torrington,41.848048,-73.168205,6/14/24,1,Dark-Not Lighted
+Suffield,41.985509,-72.649854,7/17/24,2,Daylight
+Litchfield,41.69743466,-73.10651297,8/6/24,3,Daylight
+New Haven,41.307286,-72.914628,7/15/24,1,Daylight
+Farmington,41.707097,-72.873768,7/28/24,1,Dark-Unknown Lighting
+Enfield,41.984442,-72.518963,3/4/24,3,Dark-Lighted
+Meriden,41.52851045,-72.77563738,7/31/24,2,Daylight
+Hartford,41.742025,-72.676195,8/11/24,2,Daylight
+Willington,41.848911,-72.302999,8/13/24,2,Daylight
+Durham,41.479557,-72.677519,3/29/24,2,Daylight
+Killingly,41.802032,-71.887098,8/22/24,1,Dark-Lighted
+Milford,41.233988,-72.991113,6/23/24,1,Daylight
+Branford,41.292674,-72.789485,8/15/24,2,Daylight
+Guilford,41.348568,-72.732691,8/24/24,2,Daylight
+Beacon Falls,41.434137,-73.067187,2/4/24,2,Daylight
+Manchester,41.766639,-72.487642,7/15/24,2,Daylight
+Groton,41.364727,-72.084478,5/30/24,2,Dark-Lighted
+Preston,41.509688,-72.059191,7/21/24,1,Unknown
+Griswold,41.60673,-71.912143,6/1/24,2,Daylight
+Voluntown,41.589718,-71.832609,7/25/24,1,Unknown
+Milford,41.232069,-73.045685,8/13/24,2,Daylight
+Ridgefield,41.2693564,-73.44206414,8/25/24,2,Dark-Not Lighted
